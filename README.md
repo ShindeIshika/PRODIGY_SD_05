@@ -23,3 +23,4 @@ csv
 📁 Output
 
 Data stored in a CSV file for easy analysis
+<img width="1711" height="997" alt="image" src="https://github.com/user-attachments/assets/50dd39ea-5531-416e-bd1a-31d7c53b1aa4" />
